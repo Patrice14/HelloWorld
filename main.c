@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include "function.h"
 
+void display ();
 
 int main()
 {
-    return 0;
+	display ();
+	return 0;
 }
